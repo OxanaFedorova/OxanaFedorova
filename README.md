@@ -18,7 +18,7 @@
   <td><a href = "https://practicum.yandex.ru/data-scientist/">Яндекс.Практикум: Специалист по Data Science</a></td>
   <td>Дистанционная</td>
   <th>2021-2022</th>
-  <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/certificate_YP_rus.pdf"/"https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/certificate_YP_eng.pdf">RUS/ENG</a></td>
+  <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/certificate_YP_rus.pdf">RUS</a>/<a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/certificate_YP_eng.pdf">ENG</a></td>
 </tr> 
 <tr>
   <td>
