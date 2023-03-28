@@ -4,6 +4,11 @@
 
 ## Курсы:
 <table>
+<tr>
+  <th>Название</th>
+  <th>Форма обучения</th>
+  <th>Период обучения</th>
+  <th>Сертификат</th>
 </tr> 
 <tr>
   <td><a href = "https://practicum.yandex.ru/data-scientist/">Яндекс.Практикум: Специалист по Data Science</a></td>
