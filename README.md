@@ -11,6 +11,12 @@
   <th>Сертификат</th>
 </tr> 
 <tr>
+  <td><a href = "https://karpov.courses/simulator">KARPOV.COURSES: Симулятор аналитика</a></td>
+  <td>Дистанционная</td>
+  <th>2023</th>
+  <td>
+</tr> 
+<tr>
   <td><a href = "https://practicum.yandex.ru/data-scientist/">Яндекс.Практикум: Специалист по Data Science</a></td>
   <td>Дистанционная</td>
   <th>2021-2022</th>
